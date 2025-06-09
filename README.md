@@ -36,3 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 This project helps you manage your food recipes efficiently.
 To install dependencies, run 'npm install'.
+Fixed a typo in the getting started section.
