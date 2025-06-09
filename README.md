@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 This project helps you manage your food recipes efficiently.
 To install dependencies, run 'npm install'.
 Fixed a typo in the getting started section.
+Example usage: 'npm run dev'.
