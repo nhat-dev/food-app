@@ -46,3 +46,4 @@ Dependencies: Next.js, React, Tailwind CSS.
 See CONTRIBUTING.md for guidelines.
 Frequently Asked Questions: ...
 Added new screenshots for better clarity.
+Now showing build status badge at the top.
