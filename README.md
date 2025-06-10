@@ -44,3 +44,4 @@ Improved the formatting of the introduction.
 Before starting, make sure you have Node.js installed.
 Dependencies: Next.js, React, Tailwind CSS.
 See CONTRIBUTING.md for guidelines.
+Frequently Asked Questions: ...
