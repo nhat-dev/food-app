@@ -48,3 +48,4 @@ Frequently Asked Questions: ...
 Added new screenshots for better clarity.
 Now showing build status badge at the top.
 Refined the project summary for clarity.
+Roadmap: Add more features in Q3.
