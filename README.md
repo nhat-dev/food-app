@@ -40,3 +40,4 @@ Fixed a typo in the getting started section.
 Example usage: 'npm run dev'.
 License: MIT
 For questions, contact us at support@example.com.
+Improved the formatting of the introduction.
