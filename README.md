@@ -42,3 +42,4 @@ License: MIT
 For questions, contact us at support@example.com.
 Improved the formatting of the introduction.
 Before starting, make sure you have Node.js installed.
+Dependencies: Next.js, React, Tailwind CSS.
