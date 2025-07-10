@@ -24,6 +24,15 @@ export default function Home() {
             />
             Deploy now
           </button>
+          <div className="flex flex-col gap-2">
+            <h1 className="text-2xl font-bold">
+              Welcome to the <span className="text-primary">Next.js</span>{" "}
+              template.
+            </h1>
+            <p className="text-sm text-muted-foreground">
+              This is a template for a new project.
+            </p>
+          </div>
         </div>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center"></footer>
