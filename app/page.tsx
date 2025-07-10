@@ -47,7 +47,11 @@ export default function Home() {
           </div>
         </div>
       </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center"></footer>
+      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
+        <p>
+          <span className="text-primary">Next.js</span> template.
+        </p>
+      </footer>
     </div>
   );
 }
